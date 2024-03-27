@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\RIGALIK\RIGALIK\bin\Debug\net8.0\RIGALIK.exe
+C:\Users\User\source\repos\RIGALIK\RIGALIK\bin\Debug\net8.0\RIGALIK.deps.json
+C:\Users\User\source\repos\RIGALIK\RIGALIK\bin\Debug\net8.0\RIGALIK.runtimeconfig.json
+C:\Users\User\source\repos\RIGALIK\RIGALIK\bin\Debug\net8.0\RIGALIK.dll
+C:\Users\User\source\repos\RIGALIK\RIGALIK\bin\Debug\net8.0\RIGALIK.pdb
+C:\Users\User\source\repos\RIGALIK\RIGALIK\obj\Debug\net8.0\RIGALIK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RIGALIK\RIGALIK\obj\Debug\net8.0\RIGALIK.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RIGALIK\RIGALIK\obj\Debug\net8.0\RIGALIK.AssemblyInfo.cs
+C:\Users\User\source\repos\RIGALIK\RIGALIK\obj\Debug\net8.0\RIGALIK.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RIGALIK\RIGALIK\obj\Debug\net8.0\RIGALIK.dll
+C:\Users\User\source\repos\RIGALIK\RIGALIK\obj\Debug\net8.0\refint\RIGALIK.dll
+C:\Users\User\source\repos\RIGALIK\RIGALIK\obj\Debug\net8.0\RIGALIK.pdb
+C:\Users\User\source\repos\RIGALIK\RIGALIK\obj\Debug\net8.0\RIGALIK.genruntimeconfig.cache
+C:\Users\User\source\repos\RIGALIK\RIGALIK\obj\Debug\net8.0\ref\RIGALIK.dll

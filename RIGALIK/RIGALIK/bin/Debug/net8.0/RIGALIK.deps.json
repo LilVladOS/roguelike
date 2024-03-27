@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RIGALIK/1.0.0": {
+        "runtime": {
+          "RIGALIK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RIGALIK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
